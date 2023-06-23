@@ -1,0 +1,1 @@
+print(formatted_greeting)
